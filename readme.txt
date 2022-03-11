@@ -1,0 +1,1 @@
+The folder will be used just for studying.
